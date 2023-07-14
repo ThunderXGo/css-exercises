@@ -1,0 +1,19 @@
+.para {
+background-color: #ffc0cb;
+font-family: Verdana, Times, sans-serif; 
+}
+
+#monkey {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.para.cooler {
+    font-size: 24px;
+}
+
+#final {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
